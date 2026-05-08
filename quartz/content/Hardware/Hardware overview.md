@@ -6,6 +6,7 @@
 ## Power delivery 
 ### ESP‑32S – Monitoring Controller
 - **Module**: ESP‑WROOM‑32
+- Firmware: ESPHome
 
 ### 1.69" TFT LCD (ST7789)
 - **Controller**: ST7789
@@ -13,3 +14,8 @@
 - **Advertised**: 240×280
 - **Interface**: SPI
 
+### INA228 – Power monitor
+- **Interface**: I2C
+## Meanwell UHP-350-24 Power Supply
+- Voltage: 24v
+- Max power: 350W
